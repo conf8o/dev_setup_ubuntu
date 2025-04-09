@@ -7,13 +7,17 @@ WSL上のUbuntuに開発環境（fish + mise + docker）を作るやつ。個人
 
 PowerShell（管理者）で実行：
 
+```powershell
 wsl --install
+```
+
 
 ※ ヘルプが表示された場合：
 
+```powershell
 wsl --list --online
 wsl --install -d Ubuntu
-
+```
 
 ## 1. 依存パッケージ
 
