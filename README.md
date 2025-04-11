@@ -26,8 +26,10 @@ sudo apt update && sudo apt install -y make curl git
 
 ## 2. プロジェクトをクローン
 
-git clone https://github.com/your-username/wsl-dev-setup.git
-cd wsl-dev-setup
+```bash
+git clone https://github.com/conf8o/dev_setup_ubuntu.git
+cd dev_setup_ubuntu
+```
 
 ## 3. セットアップ実行
 
