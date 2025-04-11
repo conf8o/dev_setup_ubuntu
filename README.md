@@ -1,6 +1,6 @@
 # Dev Setup
 
-Ubuntu上に自分の開発環境を初期化するやつ（fish + mise + docker）。WSLでもOK。
+Ubuntu上に自分の開発環境を初期化するやつ（fish + mise + docker + npm）。WSLでもOK。
 
 ## 0. (Windowsの場合) WSLを入れる
 
